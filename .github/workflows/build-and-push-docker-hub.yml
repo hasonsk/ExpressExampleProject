@@ -32,7 +32,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: hahongson/cicd2024:staging
+          tags: hahongson2003/cicd2024:staging
 
 
   pull-and-up:
